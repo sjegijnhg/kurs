@@ -1,0 +1,19 @@
+%flex{
+    display: flex;
+    align-items: center;
+}
+
+%m-400{
+    font-weight: 400;
+    line-height: 30px;
+}
+
+%m-600{
+    font-weight: 600;
+    line-height: normal; 
+}
+
+%m-700{
+    font-weight: 700;
+    line-height: 104%; 
+}
